@@ -1,0 +1,2 @@
+model_checkpoint_path: "quincy_chkp_test"
+all_model_checkpoint_paths: "quincy_chkp_test"
